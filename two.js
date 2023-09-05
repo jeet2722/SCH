@@ -1,1 +1,1 @@
-const ok = "ok"
+const ok = "okies"
